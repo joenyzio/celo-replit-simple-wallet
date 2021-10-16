@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"ebc73784b7595b72deb985514334cdc3","lockfileHash":"6f3ec40bfbb3bf4b785c0c0665746537","guessedImports":["express","@vitejs/plugin-react-refresh","@replit/database","react","ethers","evm-chains","vite","solc","react-dom","styled-components","microtip","react-feather"],"guessedImportsHash":"393a7ce1092bb06c8a740fa9fe15e85e"}}}
